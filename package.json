@@ -1,0 +1,22 @@
+{
+  "name": "redis-app",
+  "version": "1.0.0",
+  "description": "node-redis-app is a client for redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlm-distrib/node-redis-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlm-distrib/node-redis-app/issues"
+  },
+  "homepage": "https://github.com/mlm-distrib/node-redis-app#readme",
+  "dependencies": {
+    "ioredis": "^5.0.4"
+  }
+}
